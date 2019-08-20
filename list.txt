@@ -1,0 +1,15 @@
+comments - disqus
+admin
+share
+footer, sidebar
+search
+adv/newsletter
+tags
+categories
+featured content
+popups
+email
+
+
+
+

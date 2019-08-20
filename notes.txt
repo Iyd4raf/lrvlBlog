@@ -1,0 +1,31 @@
+--------------------------------------------------
+why / how is this in dashboard view?
+
+@if (session('status'))
+    <div class="alert alert-success">
+        {{ session('status') }}
+    </div>
+@endif
+
+-----------------------------------------------
+don't we need dot? PostsController@store
+
+// Filename to store
+$filenameToStore = $filename.'_'.time().'_'.$extension;
+
+
+--------------------
+Model relationships
+
+understand
+play with
+    $user->posts
+    $post->user????
+
+
+--------------------
+in view i can use request() or session()
+how does this work? Request and Session. how do i use in controller
+
+-----------------------------------
+pagination default view put bootstrap 4 code in it.
