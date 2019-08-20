@@ -6,7 +6,6 @@
 
 <ul>
 <li>Register and login to create and manage your posts</li>
-<li>Manage your posts</li>
 <li>Categories</li>
 <li>Tags</li>
 <li>Comments</li>
