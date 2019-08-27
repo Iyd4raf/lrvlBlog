@@ -14,6 +14,7 @@
 <li>Access control via middleware</li>
 <li>CKEditor WYSIWYG HTML Editor</li>
 <li>Select2 jQuery based replacement for select boxes library</li>
+<li>Images for blog posts are stored in storage directory and synced with the public directory</li>
 </ul>
 
 
@@ -56,4 +57,8 @@ Create and account or login in with any of the following acccounts:
 
 <h3>Setup</h3>
 
+<p>Install composer and npm dependencies</p>
+<p>Create and configure .env file</p>
+<p>Generate app encryption key</p>
 <p>Change the pagination to bootstrap 4 pagination</p>
+<p>run sql file to create database</p>
