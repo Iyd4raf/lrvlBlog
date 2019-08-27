@@ -60,5 +60,6 @@ Create and account or login in with any of the following acccounts:
 <p>Install composer and npm dependencies</p>
 <p>Create and configure .env file</p>
 <p>Generate app encryption key</p>
+<p>Run sql file to create database</p>
+<p>Create symlink between storage and public directories in order for images to be displayed</p>
 <p>Change the pagination to bootstrap 4 pagination</p>
-<p>run sql file to create database</p>
