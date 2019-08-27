@@ -52,3 +52,8 @@ Create and account or login in with any of the following acccounts:
   <td>soundhealth</td>
  </tr>
 </table>
+
+
+<h3>Setup</h3>
+
+<p>Change the pagination to bootstrap 4 pagination</p>
